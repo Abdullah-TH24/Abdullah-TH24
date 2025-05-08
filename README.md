@@ -3,7 +3,7 @@ I'm a Software Engineer, from Syria
 
 ## 🚀 Skills & Tools
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 50px;">
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 50;">
   <!-- Dart -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="100" alt="Dart" />
   
