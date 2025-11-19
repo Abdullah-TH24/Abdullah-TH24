@@ -30,6 +30,7 @@
     <h3>Databases</h3>
     <div style="display: flex; gap: 30px; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="SQLite" />
+      <img width="25" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" />
     </div>
   </div>
@@ -47,7 +48,9 @@
     <h3>Web Stack</h3>
     <div style="display: flex; gap: 30px; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
+      <img width="25" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
+      <img width="25" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
     </div>
   </div>
