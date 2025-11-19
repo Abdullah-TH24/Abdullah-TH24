@@ -8,6 +8,7 @@
     <h3>Core</h3>
     <div style="display: flex; gap: 30px; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="Dart" />
+      <div style=" width:25px;"></div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="Flutter" />
     </div>
   </div>
