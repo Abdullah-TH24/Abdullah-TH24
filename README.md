@@ -1,6 +1,5 @@
 <h2 align="left">My name is Abdullah TH</h2>
 <h3 align="left">I'm a Software Engineer, from Syria</h3>
-<h4 align="left">My skills</h4>
 
 <div style="margin-top: 30px; display: flex; flex-direction: column; gap: 40px;">
 
