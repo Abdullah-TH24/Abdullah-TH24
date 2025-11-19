@@ -1,59 +1,52 @@
 <h2 align="left">My name is Abdullah TH</h2>
 <h3 align="left">I'm a Software Engineer, from Syria</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center; margin-top: 20px;">
+<div style="margin-top: 30px; display: flex; flex-direction: column; gap: 40px;">
 
-  <!-- Flutter Stack -->
-  <div style="text-align: center; width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo" />
-    <div>Dart</div>
+  <!-- Core -->
+  <div>
+    <h3>Core</h3>
+    <div style="display: flex; gap: 30px; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="Dart" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="Flutter" />
+    </div>
   </div>
 
-  <div style="text-align: center; width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo" />
-    <div>Flutter</div>
+  <!-- State Management -->
+  <div>
+    <h3>State Management</h3>
+    <div style="display: flex; gap: 30px; align-items: center;">
+      <img src="https://img.shields.io/badge/Provider-5C6BC0?style=for-the-badge&logo=flutter&logoColor=white" height="60" alt="Provider" />
+      <img src="https://img.shields.io/badge/GetX-009688?style=for-the-badge&logo=flutter&logoColor=white" height="60" alt="GetX" />
+      <img src="https://img.shields.io/badge/BloC-673AB7?style=for-the-badge&logo=flutter&logoColor=white" height="60" alt="BloC" />
+    </div>
   </div>
 
-  <div style="text-align: center; width: 100px;">
-    <img src="https://img.shields.io/badge/Provider-5C6BC0?style=for-the-badge&logo=flutter&logoColor=white" height="60" alt="provider logo" />
-    <div>Provider</div>
+  <!-- Databases -->
+  <div>
+    <h3>Databases</h3>
+    <div style="display: flex; gap: 30px; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="SQLite" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" />
+    </div>
   </div>
 
-  <div style="text-align: center; width: 100px;">
-    <img src="https://img.shields.io/badge/GetX-009688?style=for-the-badge&logo=flutter&logoColor=white" height="60" alt="getx logo" />
-    <div>GetX</div>
+  <!-- BackEnd -->
+  <div>
+    <h3>BackEnd</h3>
+    <div style="display: flex; gap: 30px; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="PHP" />
+    </div>
   </div>
 
-  <div style="text-align: center; width: 100px;">
-    <img src="https://img.shields.io/badge/BloC-673AB7?style=for-the-badge&logo=flutter&logoColor=white" height="60" alt="bloc logo" />
-    <div>BloC</div>
-  </div>
-
-  <!-- Backend / Database -->
-  <div style="text-align: center; width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
-    <div>MySQL</div>
-  </div>
-
-  <div style="text-align: center; width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo" />
-    <div>PHP</div>
-  </div>
-
-  <!-- Frontend -->
-  <div style="text-align: center; width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
-    <div>HTML5</div>
-  </div>
-
-  <div style="text-align: center; width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
-    <div>CSS3</div>
-  </div>
-
-  <div style="text-align: center; width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
-    <div>JavaScript</div>
+  <!-- Web Stack -->
+  <div>
+    <h3>Web Stack</h3>
+    <div style="display: flex; gap: 30px; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+    </div>
   </div>
 
 </div>
