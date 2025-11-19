@@ -8,7 +8,7 @@
     <h3>Core</h3>
     <div style="display: flex; gap: 30px; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="Dart" />
-      <div style=" width:25px;"></div>
+      <img width="25" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="Flutter" />
     </div>
   </div>
@@ -18,7 +18,9 @@
     <h3>State Management</h3>
     <div style="display: flex; gap: 30px; align-items: center;">
       <img src="https://img.shields.io/badge/Provider-5C6BC0?style=for-the-badge&logo=flutter&logoColor=white" height="60" alt="Provider" />
+      <img width="25" />
       <img src="https://img.shields.io/badge/GetX-009688?style=for-the-badge&logo=flutter&logoColor=white" height="60" alt="GetX" />
+      <img width="25" />
       <img src="https://img.shields.io/badge/BloC-673AB7?style=for-the-badge&logo=flutter&logoColor=white" height="60" alt="BloC" />
     </div>
   </div>
